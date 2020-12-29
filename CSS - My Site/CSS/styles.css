@@ -1,0 +1,166 @@
+div {
+
+
+}
+
+body {
+
+    color: #66BFBF;
+    margin:0;
+    text-align: center;
+    font-family: 'Architects Daughter', cursive;
+    font-size: 2em;
+
+
+}
+
+hr {
+  border: dotted #EAF6f6; 6px;
+  border-bottom: none;
+  width: 4%;
+}
+
+h1{
+  margin: 50px auto 0 auto;
+  font-family: 'Architects Daughter', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+  line-height: 2;
+
+
+}
+
+h2{
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+  padding-bottom: 10px;
+
+}
+
+h3{
+  color: #11999E;
+}
+
+a:link {
+  color: grey;
+}
+
+.footer-link {
+  color: black;
+}
+
+
+
+.top-container{
+  background-color: #e4f9f5;
+  position: relative;
+  padding-top: 100px;
+  line-height: 200%;
+
+
+
+}
+
+.middle-container{
+margin: 100px auto 100px auto;
+
+
+}
+
+.bottom-container {
+  background: #66BFBF;
+  padding: 50px 0 20px;
+
+}
+
+a {
+  color: #11999E;
+  text-decoration: none;
+  margin: 10px 20px;
+
+}
+
+a:hover {
+  color: white;
+}
+
+.copyright {
+  color: red;
+  font-size: 0.75rem;
+}
+
+
+.top-cloud{
+  position: relative;
+  left: 300px;
+  top: 40px;
+
+}
+
+.bottom-cloud{
+  position: relative;
+  bottom: 300px;
+  left: 50px;
+
+}
+
+
+
+p {
+    line-height: 2;
+    color: black;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+
+}
+
+.webdeveloping-img {
+  float: left;
+  margin-right: 30px;
+}
+
+.cycling-img {
+  float: right;
+  margin-left: 30px;
+}
+
+.intro{
+  width: 30%;
+  margin: auto;
+}
+
+.contact-message {
+  width: 40%;
+  margin: 40px auto 60px;
+
+}
+
+
+.myButton {
+	box-shadow: 0px 1px 0px 0px #f0f7fa;
+	background:linear-gradient(to bottom, #33bdef 5%, #019ad2 100%);
+	background-color:#33bdef;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px -1px 0px #5b6178;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #019ad2 5%, #33bdef 100%);
+	background-color:#019ad2;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
